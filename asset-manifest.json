@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.3eb87e9f.css",
-    "main.js": "./static/js/main.fa127355.js",
+    "main.css": "./static/css/main.5bba10ac.css",
+    "main.js": "./static/js/main.b6a7fe65.js",
+    "static/media/spacious-area-group.jpg": "./static/media/spacious-area-group.b40db4f96a75a737f6d9.jpg",
     "static/media/araja.jpg": "./static/media/araja.2815f77a1c374a5a891a.jpg",
-    "static/media/mitchel.jpg": "./static/media/mitchel.02eabea4f5c21a256a54.jpg",
     "static/media/vladbagacian.jpg": "./static/media/vladbagacian.f0ac70176798ee683773.jpg",
     "static/media/sahyandri_logo.png": "./static/media/sahyandri_logo.0d29cbd65ea5fdd72fa0.png",
     "index.html": "./index.html",
     "static/media/bars-solid.svg": "./static/media/bars-solid.516fd46ce36996deb97468320682f8a0.svg",
     "static/media/x-solid.svg": "./static/media/x-solid.de4d3f07393b382b84ef486ace1b2391.svg",
-    "main.3eb87e9f.css.map": "./static/css/main.3eb87e9f.css.map",
-    "main.fa127355.js.map": "./static/js/main.fa127355.js.map"
+    "static/media/phone.svg": "./static/media/phone.cd383725bd1a0678df8c1f41c6874c24.svg",
+    "static/media/email.svg": "./static/media/email.7653bd93d49b0209a36636e2b91d478a.svg",
+    "static/media/location.svg": "./static/media/location.512e2bd968709ebbedb151f4988ca793.svg",
+    "main.5bba10ac.css.map": "./static/css/main.5bba10ac.css.map",
+    "main.b6a7fe65.js.map": "./static/js/main.b6a7fe65.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eb87e9f.css",
-    "static/js/main.fa127355.js"
+    "static/css/main.5bba10ac.css",
+    "static/js/main.b6a7fe65.js"
   ]
 }
